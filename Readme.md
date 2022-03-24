@@ -6,4 +6,4 @@
 * Extra Info: Often trash talk on my blog.
 
 ## View Counter
-![Moe-Counter](https://count.getloli.com/get/@:sunnyQA233-Github)
+![Moe-Counter](https://count.tech0.link/get/@:sunnyQA233-Github)
