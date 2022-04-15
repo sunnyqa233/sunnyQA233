@@ -4,6 +4,7 @@
 * Occupation: Student
 * Hobby: Gaming[Apex Legend, Rainbow Six Siege, CSGO...], Watching animation, Programming...
 * Extra Info: Often trash talk on my blog.
+[![sunnyqa233's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyqa233)](https://github.com/anuraghazra/github-readme-stats)
 
 ## View Counter
 ![Moe-Counter](https://count.getloli.com/get/@sunnyqa233-github?theme=moebooru)
